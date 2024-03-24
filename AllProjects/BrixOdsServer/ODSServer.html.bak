@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>ODS Server</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <link href="assets/css/variables.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header fixed-top" data-scrollto-offset="0">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
+        <h1>Brix ODS Server</h1>
+      </a>
+
+
+    </div>
+  </header><!-- End Header -->
+  <section id="hero-animated" class="hero-animated d-flex align-items-center">
+    <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
+      <img src="assets/img/hero-carousel/ODSdatabase.png" class="img-fluid animated">
+      <h2>BRIX <span>ODS Server Portal</span></h2>
+      <p>Product of iASYS Technology Solutions Pvt Ltd.  </p>     
+    </div>
+  </section>
+
+  <main id="main">
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>About product</h2>
+          <h4>Brix ODS Server Portal is the product of iASYS Technology solutions Pvt Ltd.
+            It is designed for system configurations, to keep all the track of ODS server.
+            It includes functionalities related to ODS like License Files , Configurations , Logs , System Information.
+            Brix ODS Server Portal application helps to maintain servers and quick operations related to ODS.
+          </h4>
+        </div>
+
+        <!-- ======= Featured Services Section ======= -->
+    <section id="featured-services" class="featured-services">
+      <div class="container">
+        
+        <div class="row gy-4">
+          <div class="section-header">
+            <h2>Problems</h2>
+          </div>
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-fullscreen"></i></div>
+              <h4><a class="stretched-link">User Interface</a></h4>
+              <p>Product does not have good User Interface. look and feel is missing. </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-person-bounding-box"></i></div>
+              <h4><a  class="stretched-link">User Experience</a></h4>
+              <p>Does not have good user Experience. User might be not have good journey through product.</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-mouse2"></i></div>
+              <h4><a class="stretched-link">Multiple Clicks</a></h4>
+              <p>Navigation is not good, we have to click multiple links to visit any tab.
+            
+              </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-table"></i></div>
+              <h4><a  class="stretched-link">Multiple Tabs</a></h4>
+              <p>Every tab is seperate even they belongs to same information.</p>
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+
+      </div>
+    </section><!-- End Featured Services Section -->
+
+          <div class="section-header">
+            <h2>Role And Responsibility`s</h2>
+            <h4>#Research , #User Interview , #User flow , #Design , #Wireframes , #Prototype</h4>
+          </div>
+          <br><br><br>
+<!-- =========================== User Research End ============================ -->
+          <div class="section-header">
+            <h2>User Research Summary</h2>
+            
+          </div>
+<!-- =========================== User Research End ============================ -->
+
+<!-- ======= F.A.Q Section ======= -->
+
+    <section id="faq" class="faq">
+      <div class="container-fluid" data-aos="fade-up">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
+
+            <div class="content px-xl-5">
+              <h3>Interview Questions</h3>
+              <p>
+               Some of important interview questions asked to the user and understanding their pain points.
+              </p>
+            </div>
+
+            <div class="accordion accordion-flush px-xl-5" id="faqlist">
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    Was navigation throught the application was easy..?
+                  </button>
+                </h3>
+                <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    Not good, It seems like some complections while navigating in application.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    What you think about current User interface of application.?
+                  </button>
+                </h3>
+                <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    User interface is not good of application and neet to upgrade it. look and feel does matters in 
+                    any application. so I think UI should be pleseant and good to see.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    Tell me about user experienc of application ?
+                  </button>
+                </h3>
+                <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    User experienc of application should be imporove, it should be simple and informative then exesting.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    What things should be change in application ?
+                  </button>
+                </h3>
+                <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    First of all UI should be change and make the appliction more simple and should have functionalities in very few clicks.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("assets/img/faq.jpg");'>&nbsp;</div>
+        </div>
+
+      </div>
+    </section><!-- End F.A.Q Section -->
+
+    <div class="tab-pane active show" id="tab-1">
+      <div class="row gy-4">
+        <div class="content px-xl-5">
+          <h3>Pain Points</h3>
+          
+        </div>
+        <div class="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
+   
+            <i class="bi bi-check-circle-fill"></i> logout button is not exist hence if we have to logout we have to restart server. <br>
+            <i class="bi bi-check-circle-fill"></i> Lenthy navigation process in application. <br>
+            <i class="bi bi-check-circle-fill"></i> There is no informative dashboard. <br>
+            <i class="bi bi-check-circle-fill"></i> Ui is not good. <br>
+            <i class="bi bi-check-circle-fill"></i>  Overall User experience is not good.
+          
+      </div>
+        <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
+          <img src="assets/img/PainPoints.jpg" alt="" class="img-fluid">
+        </div>
+      </div>
+    </div>
+
+    <div class="content px-xl-5">
+      <h3>User Personas</h3>
+    </div>
+
+        <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-5">
+            <div class="about-img">
+              <img src="assets/img/ashu.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-7">
+            <h3 class="pt-0 pt-lg-5">Ashwini Patil</h3>
+            <!-- Tab Content -->
+            <div class="tab-content">
+              <p> "Cup of tea can reduce a lot of stress."</p>
+              <div class="tab-pane fade show active" id="tab1">
+
+               <i class="bi bi-check-circle-fill"></i>Age : 25. <br>
+               <i class="bi bi-check-circle-fill"></i>Education : BE Computer Science. <br>
+               <i class="bi bi-check-circle-fill"></i>Hometown : Dhule. <br>
+               <i class="bi bi-check-circle-fill"></i>Occupation : Backend developer.
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Introduction</h4>
+                </div>
+                <p>Ashwini is Software developer working in iASYS technology solutions Pvt Ltd , she looks after backend of this project.
+                  always try to get things better and refine the coding skills. In free time she likes to travel new place and take pictures.
+                </p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Goal</h4>
+                </div>
+               <ul> 
+                <li> <p>To hard work and learn new things</p></li>
+                <li> <p>To make things much simple by studying it</p></li>
+
+              </ul>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Fustration</h4>
+                </div>
+                <ul>
+
+                  <li> <p>application navigation is not good.</p></li>
+                  <li> <p>User Interface is not good. </p></li>
+                  <li> <p>Some functionalities are not working properly.</p></li>
+                  
+                </ul>
+              </div><!-- End Userpersona 1 -->
+            </div>
+
+          </div>
+<!-- User persona 2 Started  -->
+
+<div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
+
+  <div class="col-lg-5">
+    <div class="about-img">
+      <img src="assets/img/vivek.jpg" class="img-fluid" alt="">
+    </div>
+  </div>
+<div class="col-lg-7">
+  <h3 class="pt-0 pt-lg-5">Vivek Mahajan</h3>
+  <!-- Tab Content -->
+  <div class="tab-content">
+    <p> "Work , eat ,sleep repeat."</p>
+    <div class="tab-pane fade show active" id="tab1">
+
+     <i class="bi bi-check-circle-fill"></i>Age : 35 <br>
+     <i class="bi bi-check-circle-fill"></i>Education : BE Computer. <br>
+     <i class="bi bi-check-circle-fill"></i>Hometown : Pune. <br>
+     <i class="bi bi-check-circle-fill"></i>Occupation : Project Manager.
+      <div class="d-flex align-items-center mt-4">
+        <i class="bi bi-check2"></i>
+        <h4>Introduction</h4>
+      </div>
+      <p>Vivek is project manager in iASYS, looks after all the management of project.
+        likes to code and learn new things and implement it in the project. He likes all the things to be systematic.
+      </p>
+
+      <div class="d-flex align-items-center mt-4">
+        <i class="bi bi-check2"></i>
+        <h4>Goal</h4>
+      </div>
+     <ul> 
+      <li> <p>To hard work and learn new things and implement it in project.</p></li>
+      <li> <p>To learn and adopt new technology.</p></li>
+    
+    </ul>
+
+      <div class="d-flex align-items-center mt-4">
+        <i class="bi bi-check2"></i>
+        <h4>Fustration</h4>
+      </div>
+      <ul>
+
+        <li> <p>User interface should be good enough.</p></li>
+        <li> <p>User experience is not good. </p></li>
+
+      </ul>
+    </div><!-- End Userpersona 2 -->
+
+  </div>
+
+</div>
+
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+<!-- DEsign Process -->
+    <section id="featured-services" class="featured-services">
+      <div class="container">
+        
+        <div class="row gy-4">
+          <div class="section-header">
+            <h2>Design Process</h2>
+          </div>
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-pin"></i></i></div>
+              <h4><a class="stretched-link">Discover</a></h4>
+              <p>User Research</p>
+              <p>User Interview</p>
+              <p>Analysis</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-pin"></i></i></div>
+              <h4><a  class="stretched-link">Define</a></h4>
+              <p>User Personas</p>
+              <p>Pain Points</p>
+              <p>User Journey map</p>
+              
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-pin"></i></div>
+              <h4><a class="stretched-link">Ideate</a></h4>
+              <p>User Flow</p>
+              <p>Information Architecture</p>
+              
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-pin"></i></div>
+              <h4><a class="stretched-link">Design</a></h4>
+              <p>Wire Frame</p>
+              <p>Low-Fi Design</p>
+              <p>High-Fi Design</p>
+              <p>Prototype</p>
+
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="bi bi-pin"></i></div>
+              <h4><a class="stretched-link">Testing</a></h4>
+              <p>Feedback</p>
+              <p>Conclusion</p>
+              <p>Future Concepts</p>
+            </div>
+          </div><!-- End Service Item -->
+        </div>
+
+      </div>
+    </section>
+   
+    <div class="section-header">
+      <h2>Tools</h2>
+      <p> #Figma , #Adobe XD , #Skect Book</p>
+    </div>
+
+    <div class="section-header">
+      <h2>Paper Frames</h2>
+    </div>
+    <div class="Picture">
+      <img src="assets/img/Paperframe.jpg" class="img-fluid" alt="">
+    </div>
+
+    <div class="section-header">
+      <h2>low fidelity wireframes</h2>
+      <h4>low fidelity wireframes link : <a href="https://www.figma.com/proto/wtwhuOQUORlMnswvrOUFV2/Brix-ODS-Server-Portal?node-id=14%3A2905&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A2905" target=”_blank”>Click Here.</a> </h4>
+    </div>
+    <div class="Picture">
+      <img src="assets/img/lowfi.jpg" class="img-fluid" alt="">
+    </div>
+
+    <div class="section-header">
+      <h2>UI Kit</h2>
+      <p> #Typography , #Colors , #Icons</p>
+    </div>
+
+    <div class="Picture">
+      <img src="assets/img/Style.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="section-header">
+      <h2>High fidelity wireframes</h2>
+      <h4>High fidelity wireframes link : <a href="https://www.figma.com/proto/wtwhuOQUORlMnswvrOUFV2/Brix-ODS-Server-Portal?node-id=14%3A1551&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A1551" target=”_blank”>Click Here.</a> </h4>
+    </div>
+    <div class="Picture">
+      <img src="assets/img/highfi.jpg" class="img-fluid" alt="">
+    </div>
+    
+    <div class="section-header">
+      <h2>After Before Frames</h2>
+      <p>-----------</p>
+    </div>
+    <div class="Picture">
+      <img src="assets/img/Homepage.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="Picture">
+      <img src="assets/img/dasboard02.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="Picture">
+      <img src="assets/img/AB03.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="Picture">
+      <img src="assets/img/AB04.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="Picture">
+      <img src="assets/img/AB05.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="Picture">
+      <img src="assets/img/AB06.jpg" class="img-fluid" alt="">
+    </div>
+
+    <div class="section-header">
+      <h2>Site Map</h2>
+      <p>Site map of application</p>
+    </div>
+    <div class="Picture">
+      <img src="assets/img/sitemap.jpg" class="img-fluid" alt="">
+    </div>
+
+    <div class="section-header">
+      <h2>Let`s Connect</h2>
+      <p>Email : indrajeetjadhav8107@gmail.com</p>
+    </div>
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+
+    <div class="footer-legal text-center">
+      <div class="container d-flex flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center">
+
+        <div class="d-flex flex-column align-items-center align-items-lg-start">
+          
+          <div class="credits">
+
+            Designed by <a>Indrajeet Jadhav</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </footer><!-- End Footer -->
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <div id="preloader"></div>
+
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
